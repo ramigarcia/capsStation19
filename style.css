@@ -68,6 +68,11 @@ a {
   font-weight: 600;
 }
 
+footer{
+  width: 100%;
+  position: relative;
+}
+
 em {
   position: absolute;
   bottom: 0;
