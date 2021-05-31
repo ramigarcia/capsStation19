@@ -8,9 +8,6 @@ body {
   background-color: #22252a;
   color: white;
   font-family: system-ui;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .wrapper {
@@ -56,6 +53,7 @@ details {
 }
 
 ol {
+  list-style:none;
   text-align: center;
   color: #3f69ff;
 }
